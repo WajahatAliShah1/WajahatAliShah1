@@ -12,5 +12,6 @@
 
 ## Personal Projects: 
 - So far I have one project up on my GitHub which is a group project I worked on with 3 other members for my Intro to Software Engineering course.
-- I am currently working on a number of personal projects from building my own bot to a POS Web App for a friend. These should have enough progress by Summer 2022.
+- In the process of uploading 3-4 more completed projects.
+- I am currently working on a number of personal projects from building my own bot to a POS Web App for a friend.
 - I will also be focusing on my Senior Year Capstone Project next semester as well!
